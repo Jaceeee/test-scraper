@@ -1,0 +1,81 @@
+name,pack,price,length,shield_type,sheath_color,cond_str_type,conn_type,outer_sht_material,core_strands,fire_behav,awg,strand_num,outer_diameter,voltage_rating,cable_shape,cross_sectl_area
+"Belden Grey PVC Cat5e Cable U/UTP, 305m Unterminated",1 Reel of 304 Metre(s),"PHP6,724.39",305m,U/UTP,Grey,Solid,Unterminated,PVC,-,-,24,-,4.7mm,48 V,Twisted Pair,0.2 mm²
+"Belden Grey PVC Cat5e Cable U/UTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP2,800.01",100m,U/UTP,Grey,Solid,Unterminated,PVC,1/24,-,24 AWG,1,4.7mm,48 V,Twisted Pair,0.2 mm²
+"RS Pro Grey PVC Cat5e Cable UTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP2,295.39",100m,UTP,Grey,Stranded,Unterminated,PVC,7/0.16 mm,-,26,7,5.2mm,300 V ac,Twisted Pair,0.14 mm²
+"Belden Black PUR Cat5e Cable SF/UTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP34,387.15",305m,SF/UTP,Black,Stranded,Unterminated,PUR,19/26,-,26 AWG,19,-,-,Twisted Pair,0.13 mm²
+"Belden Grey PVC Cat5e Cable F/UTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP5,191.92",100m,F/UTP,Grey,Solid,Unterminated,PVC,1/24,-,24,1,6.5mm,48 V,Twisted Pair,0.2 mm²
+"Belden Grey PVC Cat5e Cable SF/UTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP7,545.01",100m,SF/UTP,Grey,Solid,Unterminated,PVC,1/24,-,24,1,6mm,48 V,Twisted Pair,0.2 mm²
+"Belden Grey PVC Cat5e Cable S/FTP, 500m Unterminated",1 Reel of 500 Metre(s),"PHP31,893.90",500m,S/FTP,Grey,Solid,Unterminated,PVC,1/24,-,24 AWG,1,6.3mm,-,Twisted Pair,0.2 mm²
+"RS Pro Grey PVC Cat5e Cable F/UTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP11,244.92",305m,F/UTP,Grey,Solid,Unterminated,PVC,1/24,-,24 AWG,1,5mm,-,Twisted Pair,0.2 mm²
+"Belden Black PVC Cat5e Cable SF/UTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP21,479.53",305m,SF/UTP,Black,Solid,Unterminated,PVC,1/24,-,24 AWG,1,-,"300 V ac, 450 V dc",Twisted Pair,0.2 mm²
+"RS Pro Grey PVC Cat5e Cable U/UTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP8,155.33",305m,U/UTP,Grey,Solid,Unterminated,PVC,1/24,-,24,1,5mm,-,Twisted Pair,0.2 mm²
+"Belden Grey LSZH Cat5e Cable SF/UTP, LSZH 100m Unterminated",1 Reel of 100 Metre(s),"PHP8,331.27",100m,SF/UTP,Grey,Solid,Unterminated,LSZH,1/24,Low Smoke Zero Halogen (LSZH),24,1,6.3mm,48 V,Twisted Pair,0.2 mm²
+"Belden Grey LSZH Cat5e Cable S/FTP, LSZH 500m Unterminated",1 Reel of 500 Metre(s),"PHP41,298.94",500m,S/FTP,Grey,Solid,Unterminated,LSZH,1/24,Low Smoke Zero Halogen (LSZH),24,1,6.3mm,48 V,Twisted Pair,0.2 mm²
+"Belden Blue LSZH Cat5e Cable U/UTP, LSZH 305m Unterminated",1 Reel of 304 Metre(s),"PHP9,166.45",305m,U/UTP,Blue,Solid,Unterminated,LSZH,1/24,Low Smoke Zero Halogen (LSZH),24 AWG,1,4.7mm,300 V,Twisted Pair,0.2 mm²
+"Belden Grey LSZH Cat5e Cable U/UTP, LSZH 100m Unterminated",1 Reel of 100 Metre(s),"PHP2,902.33",100m,U/UTP,Grey,Solid,Unterminated,LSZH,1/24,Low Smoke Zero Halogen (LSZH),24 AWG,1,4.7mm,48 V,Twisted Pair,0.2 mm²
+"Brand-Rex Purple PE Cat5e Cable U/UTP, LSZH 305m Unterminated",1 Reel of 305 Metre(s),"PHP9,426.11",305m,U/UTP,Purple,Solid,Unterminated,PE,1/24,Low Smoke Zero Halogen (LSZH),24,1,4.85mm,-,Twisted Pair,0.2 mm²
+"Belden LSZH Cat5e Cable F/UTP, LSZH 305m Unterminated",1 Reel of 304 Metre(s),"PHP14,528.35",305m,F/UTP,-,Solid,Unterminated,LSZH,1/24,Low Smoke Zero Halogen (LSZH),24,1,6.5mm,48 V,Twisted Pair,0.2 mm²
+"Belden Grey PVC Cat5e Cable F/UTP, 305m Unterminated",1 Reel of 304 Metre(s),"PHP17,405.91",305m,F/UTP,Grey,Solid,Unterminated,PVC,1/24,-,24,1,6.5mm,-,Twisted Pair,0.2 mm²
+"Belden Grey LSZH Cat5e Cable F/UTP, LSZH 100m Unterminated",1 Reel of 100 Metre(s),"PHP4,301.39",100m,F/UTP,Grey,Solid,Unterminated,LSZH,1/24,Low Smoke Zero Halogen (LSZH),24,1,6.5mm,48 V,Twisted Pair,0.2 mm²
+"1m U/UTP, PVC Cat5e Ethernet Cable Assembly Grey",Each,PHP103.54,1m,U/UTP,Grey,-,-,PVC,-,-,-,-,-,-,-,-
+"Brad Black PE Cat5e Cable U/UTP, 304m Unterminated",1 Reel of 304 Metre(s),"PHP12,518.94",304m,U/UTP,Black,Solid,Unterminated,PE,1/24,-,24,1,5mm,-,Twisted Pair,0.2 mm²
+"Belden Black FRNC Cat5e Cable SF/UTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP20,785.49",305m,SF/UTP,Black,Stranded,Unterminated,FRNC,7/26,-,26 AWG,7,-,-,Twisted Pair,0.13 mm²
+"Belden Grey LSZH Cat5e Cable F/UTP, LSZH 500m Unterminated",1 Reel of 500 Metre(s),"PHP35,302.42",500m,F/UTP,Grey,-,Unterminated,LSZH,-,Low Smoke Zero Halogen (LSZH),24,-,7.4mm,-,Multicore,0.205 mm²
+"RS Pro Grey PVC Cat5e Cable FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP2,684.21",100m,FTP,Grey,Stranded,Unterminated,PVC,7/0.16 mm,-,26,7,5.4mm,300 V ac,Twisted Pair,0.14 mm²
+"RS Pro Grey PVC Cat5e Cable UTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP2,557.74",100m,UTP,Grey,Stranded,Unterminated,PVC,7/0.16 mm,-,-,7,5.2mm,300 V,Multicore,-
+"Belden Grey PVC Cat5e Cable U/UTP, 304m Unterminated",1 Reel of 304 Metre(s),"PHP19,782.86",304m,U/UTP,Grey,Solid,Unterminated,PVC,-,Flame Retardant,24 AWG,1,10mm,72 V dc,Multicore,0.2 mm²
+"2m U/UTP, PVC Cat5e Ethernet Cable Assembly Blue",Each,PHP156.12,2m,U/UTP,Blue,-,-,PVC,-,-,-,-,-,-,-,-
+"3m F/UTP, PVC Cat5e Ethernet Cable Assembly Blue",Each,PHP208.70,3m,F/UTP,Blue,-,-,PVC,-,-,-,-,-,-,-,-
+"RS Pro Grey PVC Cat5e Cable UTP, LSZH 250m Unterminated",1 Reel of 250 Metre(s),"PHP38,120.00",250m,UTP,Grey,Solid,Unterminated,PVC,-,Low Smoke Zero Halogen (LSZH),24 AWG,-,15.5mm,300 V,Twisted Pair,-
+"Alpha Wire Black TPE Cat5e Cable UTP, 152m Unterminated",1 Reel of 152 Metre(s),"PHP26,170.54",152m,UTP,Black,Stranded,Unterminated,TPE,7/32,-,24,7,-,300 V ac,Twisted Pair,-
+"RS Pro Grey PVC Cat5e Cable Unshielded, 305m Unterminated",1 Reel of 305 Metre(s),"PHP5,020.25",305m,Unshielded,Grey,Solid,Unterminated,PVC,8/0.5 mm,-,26 AWG,8,5.2mm,-,Twisted Pair,-
+"CAE Multimedia Connect Grey LSZH Cat5e Cable U/UTP, LSZH 305m Unterminated",1 Reel of 305 Metre(s),"PHP11,888.00",305m,U/UTP,Grey,Solid,Unterminated,LSZH,-,Low Smoke Zero Halogen (LSZH),-,-,5.5mm,-,Twisted Pair,-
+"Alpha Wire Black TPE Cat5e Cable Braid, Foil, 305m Unterminated",1 Reel of 305 Metre(s),"PHP112,225.17",305m,"Braid, Foil",Black,Stranded,Unterminated,TPE,7/32,-,24,7,0.61mm,300 V ac,Twisted Pair,0.2 mm²
+Patch cord Cat 5e UTP PVC 0.5m Blue,Each,PHP62.29,500mm,U/UTP,Blue,-,-,PVC,-,-,-,-,-,-,-,-
+"500mm U/UTP, PVC Cat5e Ethernet Cable Assembly Grey",Each,PHP62.29,500mm,U/UTP,Grey,-,-,PVC,-,-,-,-,-,-,-,-
+"Brad Black PE Cat5e Cable F/UTP, 304m Unterminated",1 Reel of 304 Metre(s),"PHP19,607.74",304m,F/UTP,Black,Solid,Unterminated,PE,1/24,-,24,1,6.1mm,-,Twisted Pair,0.2 mm²
+"3m F/UTP, PVC Cat5e Ethernet Cable Assembly Yellow",Each,PHP214.36,3m,F/UTP,Yellow,-,-,PVC,-,-,-,-,-,-,-,-
+"Lapp Blue PUR Cat5e Cable Copper Braid, 50m Unterminated",1 Reel of 50 Metre(s),"PHP7,507.40",50m,Copper Braid,Blue,Solid,Unterminated,PUR,-,-,2 x 2 AWG24/1,-,5.8mm,125 V,Multicore,-
+"5m F/UTP, PVC Cat5e Ethernet Cable Assembly Black",Each,PHP251.16,5m,F/UTP,Black,-,-,PVC,-,-,-,-,-,-,-,-
+"Lapp Blue PUR Cat5e Cable Copper Braid, 50m Unterminated",1 Reel of 50 Metre(s),"PHP10,699.32",50m,Copper Braid,Blue,Stranded,Unterminated,PUR,-,-,4 x 4 AWG 24/1,-,6.3mm,125 V,Multicore,-
+"2m U/UTP, PVC Cat5e Ethernet Cable Assembly Green",Each,PHP114.05,2m,U/UTP,Green,-,-,PVC,-,-,-,-,-,-,-,-
+"5m F/UTP, PVC Cat5e Ethernet Cable Assembly Green",Each,PHP251.16,5m,F/UTP,Green,-,-,PVC,-,-,-,-,-,-,-,-
+"3.05m UTP, PVC Cat5e Cable Assembly Black",Each,PHP172.42,3.05m,UTP,Black,-,-,PVC,-,-,-,-,-,-,-,-
+"2m U/UTP LSZH/FRNC, Cat5e Ethernet Cable Assembly Blue",Each,PHP162.59,2m,U/UTP,Blue,-,-,LSZH,-,-,-,-,-,-,-,-
+"2m F/UTP, PVC Cat5e Ethernet Cable Assembly Grey",Each,PHP193.33,2m,F/UTP,Grey,-,-,PVC,-,-,-,-,-,-,-,-
+"1m U/UTP, PVC Cat5e Ethernet Cable Assembly Blue",Each,PHP92.62,1m,U/UTP,Blue,-,-,PVC,-,-,-,-,-,-,-,-
+"3m U/UTP, PVC Cat5e Ethernet Cable Assembly Blue",Each,PHP307.38,3m,U/UTP,Blue,-,-,PVC,-,-,-,-,-,-,-,-
+"Belden Red PVC Cat5e Cable U/UTP, 305m Unterminated",1 Reel of 304 Metre(s),"PHP25,199.26",305m,U/UTP,Red,Stranded,Unterminated,PVC,7/32,-,24,7,5.59mm,300 V,Twisted Pair,0.22 mm²
+"Brad Black PUR Cat5e Cable F/UTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP17,625.93",100m,F/UTP,Black,Stranded,Unterminated,PUR,-,-,26 AWG,-,5.4mm,-,Twisted Pair,0.13 mm²
+"500mm U/UTP, PVC Cat5e Ethernet Cable Assembly Yellow",Each,PHP63.50,500mm,U/UTP,Yellow,-,-,PVC,-,-,-,-,-,-,-,-
+"Belden Blue PVC Cat5e Cable U/UTP, 305m Unterminated",1 Reel of 304 Metre(s),"PHP30,825.16",305m,U/UTP,Blue,Stranded,Unterminated,PVC,7/32,-,24 AWG,7,5.59mm,300 V,Twisted Pair,0.22 mm²
+"Molex Premise Networks Grey PVC Cat5e Cable U/UTP, 305m Unterminated",1 Box of 305 Metre(s),"PHP5,865.99",305m,U/UTP,Grey,Solid,Unterminated,PVC,-,-,24,-,5mm,-,Twisted Pair,-
+"Belden Grey PVC Cat5e Cable U/UTP, 304m Unterminated",1 Reel of 304 Metre(s),"PHP18,540.80",304m,U/UTP,Grey,Stranded,Unterminated,PVC,7/32,-,24,7,5.41mm,300 V,Twisted Pair,0.22 mm²
+"Belden Green PVC Cat5e Cable U/UTP, 305m Unterminated",1 Reel of 304 Metre(s),"PHP28,356.80",305m,U/UTP,Green,Stranded,Unterminated,PVC,7/32,-,24,7,5.59mm,300 V,Twisted Pair,0.22 mm²
+"2m S/FTP, PUR Cat5e Ethernet Cable Assembly Black",Each,"PHP1,296.26",2m,S/FTP,Black,-,-,PUR,-,-,-,-,-,-,-,-
+"2m U/UTP, PVC Cat5e Ethernet Cable Assembly Grey",Each,PHP122.14,2m,U/UTP,Grey,-,-,PVC,-,-,-,-,-,-,-,-
+"Belden Orange PVC Cat5e Cable U/UTP, 305m Unterminated",1 Reel of 304 Metre(s),"PHP25,199.26",305m,U/UTP,Orange,Stranded,Unterminated,PVC,7/32,-,24,7,5.59mm,300 V,Twisted Pair,0.22 mm²
+"Belden Yellow PVC Cat5e Cable U/UTP, 305m Unterminated",1 Reel of 304 Metre(s),"PHP25,199.26",305m,U/UTP,Yellow,Stranded,Unterminated,PVC,7/32,-,24,7,5.59mm,300 V,Twisted Pair,0.22 mm²
+"Belden Black FRNC Cat5e Cable SF/UTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP20,805.72",305m,SF/UTP,Black,Solid,Unterminated,FRNC,1/24,-,24 AWG,1,-,-,Twisted Pair,0.2 mm²
+"RS Pro Purple PVC Cat5e Cable Unshielded, LSZH 305m Unterminated",1 Reel of 305 Metre(s),"PHP10,073.93",305m,Unshielded,Purple,Solid,Unterminated,PVC,8/0.5 mm,Low Smoke Zero Halogen (LSZH),26 AWG,8,5.2mm,-,Twisted Pair,-
+"Belden Grey PVC Cat5e Cable U/UTP, 304m Unterminated",1 Reel of 304 Metre(s),"PHP31,691.89",304m,U/UTP,Grey,Stranded,Unterminated,PVC,7/32,-,24 AWG,7,-,300 V,Twisted Pair,0.22 mm²
+"3.05m UTP, PVC Cat5e Cable Assembly White",Each,PHP191.58,3.05m,UTP,White,-,-,PVC,-,-,-,-,-,-,-,-
+"Belden Grey PVC Cat5e Cable F/UTP, 500m Unterminated",1 Reel of 500 Metre(s),"PHP26,518.57",500m,F/UTP,Grey,Stranded,Unterminated,PVC,7/0.16 mm,-,26,7,5.2mm,48 V,Twisted Pair,0.13 mm²
+"3.05m UTP, PVC Cat5e Cable Assembly Grey",Each,PHP191.58,3.05m,UTP,Grey,-,-,PVC,-,-,-,-,-,-,-,-
+"Belden Purple PVC Cat5e Cable U/UTP, 305m Unterminated",1 Reel of 304 Metre(s),"PHP28,356.80",305m,U/UTP,Purple,Stranded,Unterminated,PVC,7/32,-,24,7,5.59mm,300 V,Twisted Pair,0.22 mm²
+"RS Pro Grey PVC Cat5e Cable F/UTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP14,589.72",305m,F/UTP,Grey,Stranded,Unterminated,PVC,-,-,26 AWG,-,5mm,-,Twisted Pair,0.2 mm²
+"Molex Premise Networks Purple LSZH Cat5e Cable F/UTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP11,344.79",305m,F/UTP,Purple,Solid,Unterminated,LSZH,-,-,24,-,6.3mm,-,Twisted Pair,-
+"C/A, RJ45 TO RJ.5, L=7500",Each,PHP761.00,7.5m,-,Black,-,-,-,-,-,-,-,-,-,-,-
+"RS Pro Purple LSZH Cat5e Cable U/UTP, LSZH 305m Unterminated",1 Reel of 305 Metre(s),"PHP8,977.98",305m,U/UTP,Purple,Solid,Unterminated,LSZH,1/24,Low Smoke Zero Halogen (LSZH),24,1,5mm,-,Twisted Pair,0.2 mm²
+"5m F/UTP, PVC Cat5e Ethernet Cable Assembly Blue",Each,PHP251.16,5m,F/UTP,Blue,-,-,PVC,-,-,-,-,-,-,-,-
+"CAE Multimedia Connect Grey LSZH Cat5e Cable F/UTP, LSZH 305m Unterminated",1 Reel of 305 Metre(s),"PHP17,424.92",305m,F/UTP,Grey,Solid,Unterminated,LSZH,-,Low Smoke Zero Halogen (LSZH),-,-,5.8mm,-,Twisted Pair,-
+"1m U/UTP, PVC Cat5e Ethernet Cable Assembly Yellow",Each,PHP63.81,1m,U/UTP,Yellow,-,-,PVC,-,-,-,-,-,-,-,-
+8.23m UTP Cat5e Cable Assembly Grey,Each,"PHP7,173.13",8.23m,UTP,Grey,-,-,-,-,-,-,-,-,-,-,-
+"3.05m UTP, PVC Cat5e Cable Assembly Green",Each,PHP191.58,3.05m,UTP,Green,-,-,PVC,-,-,-,-,-,-,-,-
+"Harting Yellow PUR Cat5e Cable Aluminium Foil, Tinned Copper Braid, 50m Unterminated",1 Reel of 50 Metre(s),"PHP35,534.98",50m,"Aluminium Foil, Tinned Copper Braid",Yellow,Stranded,Unterminated,PUR,19/26 AWG,"Flame Retardant, Halogen Free",26 AWG,19,6.8mm,125 V,Twisted Pair,0.13 mm²
+"C/A, RJ45 TO RJ.5, L=7500",Each (In a Bag of 25),PHP738.36,7.5m,-,Black,-,-,-,-,-,-,-,-,-,-,-
+"Belden Green PVC Cat5e Cable SF/UTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP22,510.07",305m,SF/UTP,Green,-,Unterminated,PVC,1/22,Flame Retardant,22 AWG,1,-,300 V ac,Multicore,0.33 mm²
+"2m U/UTP, PVC Cat5e Ethernet Cable Assembly Red",Each,PHP132.66,2m,U/UTP,Red,-,-,PVC,-,-,-,-,-,-,-,-
+"30m UTP LSZH/FRNC, Cat5e Cable Assembly Blue",Each,PHP620.31,30m,UTP,Blue,-,-,LSZH,-,-,-,-,-,-,-,-
+"25m UTP LSZH/FRNC, Cat5e Cable Assembly Grey",Each,PHP791.70,25m,UTP,Grey,-,-,LSZH,-,-,-,-,-,-,-,-
+"1m U/UTP, PVC Cat5e Ethernet Cable Assembly Blue",Each,PHP234.81,1m,U/UTP,Blue,-,-,PVC,-,-,-,-,-,-,-,-

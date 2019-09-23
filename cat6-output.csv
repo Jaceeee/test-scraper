@@ -1,0 +1,81 @@
+name,pack,price,shield_type,length,sheath_color,conductor_strand_type,outer_sheath_material,awg,strand_num,core_strands,outer_diameter,voltage_rating,attenuation,strand_size,fire_behavior,cross_sectional_area
+"Belden Grey Cat6 Cable U/UTP PVC, 100m",1 Reel of 100 Metre(s),"PHP5,345.62",U/UTP,100m,Grey,Solid,PVC,23 AWG,1,-,6.5mm,48 V,-,23 AWG,-,0.2 mm²
+"Belden Grey Cat6 Cable U/UTP PVC, 304m",1 Reel of 304 Metre(s),"PHP15,675.27",U/UTP,304m,Grey,Solid,PVC,23 AWG,1,-,6.5mm,48 V,-,23 AWG,-,0.2 mm²
+"Belden Blue Cat6 Cable U/UTP LSZH, 304m",1 Reel of 304 Metre(s),"PHP18,956.97",U/UTP,304m,Blue,Solid,LSZH,23 AWG,1,-,6.5mm,48 V,-,23 AWG,-,0.2 mm²
+"Belden Blue Cat6 Cable U/UTP LSZH, 100m",1 Reel of 100 Metre(s),"PHP6,610.33",U/UTP,100m,Blue,Solid,LSZH,23 AWG,1,-,6.5mm,48 V,-,23 AWG,-,0.2 mm²
+Roline Blue 10m Cat6 Ethernet Cable Assembly RJ45,Each,"PHP1,031.21",S/FTP,10m,Blue,-,-,-,-,-,-,-,-,-,-,-
+"RS Pro Grey Cat6 Cable UTP LSZH, PVC Low Smoke Zero Halogen (LSZH), 500m",1 Reel of 500 Metre(s),"PHP17,464.30",UTP,500m,Grey,Solid,"LSZH, PVC",24 AWG,-,-,6mm,-,"2.1 dB @ 1 MHz, 3.8 dB @ 4 MHz, 6 dB @ 10 MHz, 7.6 dB @ 16 MHz, 10.7 dB @ 31.25 MHz, 15.5 dB @ 62.5 MHz, 19.9 dB @ 100 MHz, 33 dB @ 250 MHz",-,Low Smoke Zero Halogen (LSZH),0.2 mm²
+"RS Pro Grey Cat6 Cable UTP LSZH, PVC Low Smoke Zero Halogen (LSZH), 100m",1 Reel of 100 Metre(s),"PHP3,400.64",UTP,100m,Grey,Solid,"LSZH, PVC",24 AWG,-,-,6mm,-,"2.1 dB @ 1 MHz, 3.8 dB @ 4 MHz, 6 dB @ 10 MHz, 7.6 dB @ 16 MHz, 10.7 dB @ 31.25 MHz, 15.5 dB @ 62.5 MHz, 19.9 dB @ 100 MHz, 33 dB @ 250 MHz",-,Low Smoke Zero Halogen (LSZH),0.2 mm²
+"RS Pro Purple Cat6 Cable F/UTP LSZH Low Smoke Zero Halogen (LSZH), 305m",1 Reel of 305 Metre(s),"PHP17,388.52",F/UTP,305m,Purple,Stranded,LSZH,26 AWG,1,1/23,7.4mm,-,-,23 AWG,Low Smoke Zero Halogen (LSZH),0.13 mm²
+RS Pro Blue 10m Cat6 Ethernet Cable Assembly RJ45,Each,PHP581.26,S/FTP,10m,Blue,-,PVC,-,-,-,-,-,-,-,-,-
+RS Pro Blue 3m Cat6 Ethernet Cable Assembly RJ45,Each,PHP247.12,U/UTP,3m,Blue,-,PVC,-,-,-,-,-,-,-,-,-
+Roline Red 15m Cat6 Ethernet Cable Assembly RJ45,Each,"PHP1,266.63",S/FTP,15m,Red,-,-,-,-,-,-,-,-,-,-,-
+RS Pro Blue 2m Cat6 Ethernet Cable Assembly RJ45,Each,PHP182.00,U/UTP,2m,Blue,-,PVC,-,-,-,-,-,-,-,-,-
+"Siemens Green Cat6 Cable Twisted Pair PVC, 20m",1 Reel of 20 Metre(s),"PHP3,855.25",Twisted Pair,20m,Green,-,PVC,24 AWG,-,-,-,-,-,-,-,-
+RS Pro Blue 10m Cat6 Ethernet Cable Assembly RJ45,Each,PHP906.78,F/UTP,10m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+"Belden Grey Cat6 Cable U/UTP PVC, 305m",1 Reel of 304 Metre(s),"PHP19,728.26",U/UTP,305m,Grey,Solid,PVC,24 AWG,1,1/24,5.21mm,300 V,2.4 dB/100m @ 1MHz,24 AWG,-,0.2 mm²
+"1m Straight Through Cat6a Cable Assembly, FTP, STP Blue LSZH",Each,PHP474.02,"FTP, STP",1m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+RS Pro Blue 1m Cat6 Ethernet Cable Assembly RJ45,Each,PHP116.08,S/FTP,1m,Blue,-,PVC,-,-,-,-,-,-,-,-,-
+"RS Pro Grey Cat6 Cable U/UTP PVC, 305m",1 Reel of 305 Metre(s),"PHP11,141.38",U/UTP,305m,Grey,Solid,PVC,24 AWG,1,1/24,6mm,-,-,24 AWG,-,-
+RS Pro Red 10m Cat6 Ethernet Cable Assembly RJ45,Each,PHP459.42,S/FTP,10m,Red,-,PVC,-,-,-,-,-,-,-,-,-
+Patch cord Cat6 UTP LSZH Blue 15m,Each,PHP719.78,UTP,15m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+RS Pro Blue 10m Cat6 Ethernet Cable Assembly RJ45,Each,PHP706.17,U/UTP,10m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+"CAE Purple Cat6 Cable F/FTP LSZH Low Smoke Zero Halogen (LSZH), 100m",1 Reel of 100 Metre(s),"PHP7,951.89",F/FTP,100m,Purple,Solid,LSZH,23 AWG,1,-,7.4mm,-,44.2 Db@500 Mhz,-,Low Smoke Zero Halogen (LSZH),0.2 mm²
+Roline Red 10m Cat6 Ethernet Cable Assembly RJ45,Each,PHP859.33,S/FTP,10m,Red,-,-,-,-,-,-,-,-,-,-,-
+RS Pro Blue 5m Cat6 Ethernet Cable Assembly RJ45,Each,PHP395.15,U/UTP,5m,Blue,-,PVC,-,-,-,-,-,-,-,-,-
+"Harting Black Cat6 Cable S/FTP PVC, 100m",1 Reel of 100 Metre(s),"PHP32,232.24",S/FTP,100m,Black,Stranded,PVC,18 AWG,7,7/27,6.9mm,100 V,3.1 dB/100m @ 1MHz,27 AWG,-,0.72 mm²
+"RS Pro Purple Cat6 Cable F/UTP LSZH Low Smoke Zero Halogen (LSZH), 305m",1 Reel of 305 Metre(s),"PHP19,312.89",F/UTP,305m,Purple,Solid,LSZH,23 AWG,1,1/23,7.4mm,-,-,23 AWG,Low Smoke Zero Halogen (LSZH),-
+"Patch cord RJ45, PowerCat 6, 7m, blue",Each,PHP858.28,F/UTP,7m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+"Cinch Connectors Blue Cat6 Cable UTP PVC, 910mm",Each (In a Pack of 10),PHP112.27,UTP,910mm,Blue,-,PVC,-,-,-,-,-,-,-,-,-
+RS Pro Blue 5m Cat6 Ethernet Cable Assembly RJ45,Each,PHP279.14,S/FTP,5m,Blue,-,PVC,-,-,-,-,-,-,-,-,-
+RS Pro Blue 1m Cat6 Ethernet Cable Assembly RJ45,Each,PHP189.69,F/UTP,1m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+"CAE Grey Cat6 Cable U/FTP PVC, 100m",1 Reel of 100 Metre(s),"PHP5,481.92",U/FTP,100m,Grey,Stranded,PVC,26 AWG,7,7/26,5.6mm,-,46.9 Db@200 Mhz,26 AWG,-,-
+Molex Premise Networks Red 7m Cat6 Ethernet Cable Assembly RJ45,Each,PHP936.28,U/UTP,7m,Red,-,PVC,-,-,-,-,-,-,-,-,-
+"RS Pro Grey Cat6 Cable F/UTP PVC, 305m",1 Reel of 305 Metre(s),"PHP20,266.99",F/UTP,305m,Grey,Stranded,PVC,24 AWG,1,1/23,7.4mm,1 kV,≥55 dB,23 AWG,-,-
+RS Pro Blue 5m Cat6 Ethernet Cable Assembly RJ45,Each,PHP447.73,U/UTP,5m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+"RS Pro Cat6 Cable FTP LSZH, PVC Low Smoke Zero Halogen (LSZH), 500m",1 Reel of 500 Metre(s),"PHP22,184.11",FTP,500m,-,Solid,"LSZH, PVC",24 AWG,-,-,6.3mm,-,"2.1 dB @ 1 MHz, 3.8 dB @ 4 MHz, 6 dB @ 10 MHz, 7.6 dB @ 16 MHz, 10.7 dB @ 31.25 MHz, 15.5 dB @ 62.5 MHz, 19.9 dB @ 100 MHz, 33 dB @ 250 MHz",-,Low Smoke Zero Halogen (LSZH),0.2 mm²
+"Harting Yellow Cat6 Cable S/FTP PVC, 100m",1 Reel of 100 Metre(s),"PHP32,407.77",S/FTP,100m,Yellow,Stranded,PVC,26 AWG,7,7/26,6.9mm,100 V,3.1 dB/100m @ 1MHz,-,-,0.72 mm²
+RS Pro Yellow 500mm Cat6 Ethernet Cable Assembly RJ45,Each,PHP57.00,S/FTP,500mm,Yellow,-,PVC,-,-,-,-,-,-,-,-,-
+"RS Pro Cat6 Cable FTP LSZH, PVC Low Smoke Zero Halogen (LSZH), 100m",1 Reel of 100 Metre(s),"PHP4,607.69",FTP,100m,-,Solid,"LSZH, PVC",24 AWG,-,-,6.3mm,-,"2.1 dB @ 1 MHz, 3.8 dB @ 4 MHz, 6 dB @ 10 MHz, 7.6 dB @ 16 MHz, 10.7 dB @ 31.25 MHz, 15.5 dB @ 62.5 MHz, 19.9 dB @ 100 MHz, 33 dB @ 250 MHz",-,Low Smoke Zero Halogen (LSZH),0.2 mm²
+"Brand-Rex Purple Cat6 Cable U/UTP LSZH, 305m",1 Reel of 305 Metre(s),"PHP15,781.23",U/UTP,305m,Purple,Solid,LSZH,23 AWG,1,1/23,5.75mm,-,-,-,-,0.26 mm²
+Patch cord Cat6 FTP LSZH Blue 15m,Each,PHP883.38,FTP,15m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+RS Pro Red 5m Cat6 Ethernet Cable Assembly RJ45,Each,PHP319.55,S/FTP,5m,Red,-,PVC,-,-,-,-,-,-,-,-,-
+RS Pro Yellow 3m Cat6 Ethernet Cable Assembly RJ45,Each,PHP247.12,U/UTP,3m,Yellow,-,PVC,-,-,-,-,-,-,-,-,-
+"Cinch Connectors Blue Cat6 Cable UTP PVC, 1.524m",Each,PHP137.25,UTP,1.524m,Blue,-,PVC,-,-,-,-,-,-,-,-,-
+"Slim patch cord, 28AWG CAT6 UTP LSOH 3m",Each,PHP854.86,UTP,3m,White,-,LSZH,28 AWG,-,-,-,-,-,-,-,-
+"Belden Yellow Cat6 Cable U/UTP PVC, 304m",1 Reel of 304 Metre(s),"PHP21,523.62",U/UTP,304m,Yellow,Solid,PVC,23 AWG,1,1/23,9.27mm,300 V,1.9 dB/100m @ 1MHz,-,-,0.26 mm²
+Patch cord Cat6 FTP LSZH Blue 20m,Each,"PHP1,150.30",FTP,20m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+"Lapp Green Cat6 Cable Copper Braid PUR, 50m",1 Reel of 50 Metre(s),"PHP25,931.31",Copper Braid,50m,Green,Solid,PUR,22 AWG,-,-,8.7mm,125 V,-,-,-,-
+Roline Blue 15m Cat6 Ethernet Cable Assembly RJ45,Each,"PHP1,045.59",S/FTP,15m,Blue,-,-,-,-,-,-,-,-,-,-,-
+"CAE Red Cat6 Cable U/FTP PVC, 100m",1 Reel of 100 Metre(s),"PHP5,043.49",U/FTP,100m,Red,Stranded,PVC,26 AWG,7,7/26,5.6mm,-,46.9 Db@200 Mhz,26 AWG,-,-
+RS Pro Black 5m Cat6 Ethernet Cable Assembly RJ45,Each,PHP339.83,S/FTP,5m,Black,-,PVC,-,-,-,-,-,-,-,-,-
+RS Pro Green 5m Cat6 Ethernet Cable Assembly RJ45,Each,PHP339.83,S/FTP,5m,Green,-,PVC,-,-,-,-,-,-,-,-,-
+"RS Pro Grey Cat6 Cable U/UTP PVC, 305m",1 Reel of 305 Metre(s),"PHP11,672.02",U/UTP,305m,Grey,Stranded,PVC,23 AWG,1,1/23,6mm,-,"2 dB @ 1 MHz, 10.7 dB @ 31.25 MHz, 15.4 dB @ 62.5 MHz, 19.8 dB @ 100 MHz, 25.1 dB @ 155 MHz, 29 dB @ 200 MHz, 32.8 dB @ 250 MHz, 36.4 dB @ 300 MHz, 43 dB @ 400 MHz",23 AWG,-,-
+RS Pro Yellow 2m Cat6 Ethernet Cable Assembly RJ45,Each,PHP204.25,U/UTP,2m,Yellow,-,PVC,-,-,-,-,-,-,-,-,-
+"Siemens Green Cat6 Cable Twisted Pair PVC, 20m",1 Reel of 20 Metre(s),"PHP6,298.10",Twisted Pair,20m,Green,-,PVC,24 AWG,-,-,-,-,-,-,-,-
+RS Pro Blue 10m Cat6 Ethernet Cable Assembly RJ45,Each,PHP558.55,U/UTP,10m,Blue,-,PVC,-,-,-,-,-,-,-,-,-
+Patch cord Cat6 UTP LSZH Black 15m,Each,PHP764.77,UTP,15m,Black,-,LSZH,-,-,-,-,-,-,-,-,-
+Cat 6 90deg angled patch cable LSZH 5m,Each,"PHP1,289.23",S/FTP,5m,Grey,-,LSZH,-,-,-,-,-,-,-,-,-
+"Belden Orange Cat6 Cable U/UTP PVC, 304m",1 Reel of 304 Metre(s),"PHP21,523.62",U/UTP,304m,Orange,Solid,PVC,23 AWG,1,1/23,9.27mm,300 V,1.9 dB/100m @ 1MHz,-,-,0.26 mm²
+Patch cord Cat6 FTP LSZH Black 30m,Each,"PHP1,575.81",FTP,30m,Black,-,LSZH,-,-,-,-,-,-,-,-,-
+RS Pro Blue 2m Cat6 Ethernet Cable Assembly RJ45,Each,PHP147.31,S/FTP,2m,Blue,-,PVC,-,-,-,-,-,-,-,-,-
+RS Pro Black 2m Cat6 Ethernet Cable Assembly RJ45,Each,PHP147.31,S/FTP,2m,Black,-,PVC,-,-,-,-,-,-,-,-,-
+har-port Cat 6 patch cable 8.0m,Each,"PHP2,299.89",SF/UTP,8m,Yellow,-,PUR,-,-,-,-,-,-,-,-,-
+RS Pro Blue 3m Cat6 Ethernet Cable Assembly RJ45,Each,PHP364.81,F/UTP,3m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+RS Pro Yellow 500mm Cat6 Ethernet Cable Assembly RJ45,Each,PHP167.44,F/UTP,500mm,Yellow,-,LSZH,-,-,-,-,-,-,-,-,-
+RS Pro Grey 2m Cat6 Ethernet Cable Assembly RJ45,Each,PHP186.45,U/UTP,2m,Grey,-,PVC,-,-,-,-,-,-,-,-,-
+Brand-Rex Yellow 2m Cat6 Ethernet Cable Assembly RJ45,Each,PHP750.97,S/FTP,2m,Yellow,-,LSZH,-,-,-,-,-,-,-,-,-
+Brand-Rex Green 5m Cat6 Ethernet Cable Assembly RJ45,Each,PHP975.76,U/UTP,5m,Green,-,LSZH,-,-,-,-,-,-,-,-,-
+COMMSCOPE White 10m Cat6 Ethernet Cable Assembly RJ45,Each (In a Bag of 10),"PHP2,133.20",U/UTP,10m,White,-,LSZH,-,-,-,-,-,-,-,-,-
+Harting Green 10m Cat6 Ethernet Cable Assembly RJ45,1 Bag of 1,"PHP4,031.75",U/FTP,10m,Green,-,PVC,-,-,-,-,-,-,-,-,-
+"RS Pro Grey Cat6 Cable F/UTP PVC, 305m",1 Reel of 305 Metre(s),"PHP15,750.90",F/UTP,305m,Grey,Solid,PVC,23 AWG,1,1/23,7.4mm,-,-,23 AWG,-,-
+"Cat6 RJ45 UTP patch cable, white, 5m",Each (In a Bag of 20),"PHP1,410.93",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+RS Pro Green 500mm Cat6 Ethernet Cable Assembly RJ45,Each,PHP100.30,U/UTP,500mm,Green,-,PVC,-,-,-,-,-,-,-,-,-
+RS Pro Red 1m Cat6 Ethernet Cable Assembly RJ45,Each,PHP204.65,F/UTP,1m,Red,-,LSZH,-,-,-,-,-,-,-,-,-
+"CAE Blue Cat6 Cable U/FTP PVC, 100m",1 Reel of 100 Metre(s),"PHP5,481.92",U/FTP,100m,Blue,Stranded,PVC,26 AWG,7,7/26,5.6mm,-,46.9 Db@200 Mhz,26 AWG,-,-
+COMMSCOPE Blue 1m Cat6 Ethernet Cable Assembly RJ45,Each,"PHP1,008.14",U/UTP,1m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+Patch cord Cat6 UTP LSZH Grey 15m,Each,PHP764.77,UTP,15m,Grey,-,LSZH,-,-,-,-,-,-,-,-,-
+RS Pro Red 2m Cat6 Ethernet Cable Assembly RJ45,Each,PHP204.25,U/UTP,2m,Red,-,PVC,-,-,-,-,-,-,-,-,-
+RS Pro Black 1m Cat6 Ethernet Cable Assembly RJ45,Each,PHP179.58,F/UTP,1m,Black,-,LSZH,-,-,-,-,-,-,-,-,-
+COMMSCOPE Blue 1m Cat6 Ethernet Cable Assembly RJ45,Each (In a Bag of 60),"PHP1,561.783",U/UTP,1m,Blue,-,LSZH,-,-,-,-,-,-,-,-,-
+COMMSCOPE White 2m Cat6 Ethernet Cable Assembly RJ45,Each (In a Bag of 50),"PHP1,714.04",U/UTP,2m,White,-,LSZH,-,-,-,-,-,-,-,-,-

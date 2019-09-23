@@ -1,0 +1,81 @@
+name,pack,price,fire_behavior,shield_type,outer_sheath_material,conductor_strand_type,connector_type,sheath_color,awg,core_strands,cross_sectional_area,outer_diameter,attenuation,capacitance,voltage_rating,cable_shape
+"RS Pro Blue PVC Cat5 Ethernet Cable UTP, 50m Unterminated",1 Reel of 50 Metre(s),"PHP1,341.38",-,UTP,PVC,Stranded,Unterminated,Blue,26,7/0.16 mm,-,5.2mm,37.4 dB,330 pF,-,Twisted Pair
+"Siemens Green PVC Cat5 Ethernet Cable SF/UTP, 20m Unterminated",1 Reel of 20 Metre(s),"PHP2,732.87",Flame Retardant,SF/UTP,PVC,-,Unterminated,Green,22 AWG,-,0.33,-,-,-,100 V,-
+"Harting Green PVC Cat5 Cable SF/UTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP15,217.43",-,SF/UTP,PVC,Stranded,Unterminated,Green,22 AWG,7/22,2.28 mm²,6.5mm,2.1 dB/100m @ 1MHz,-,-,Multicore
+"Harting Green PVC Cat5 Cable SF/UTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP13,624.71",-,SF/UTP,PVC,Solid,Unterminated,Green,22,1/22,0.33 mm²,6.5mm,2.1 dB/100m @ 1MHz,-,-,Multicore
+"Harting Green PUR Cat5 Cable SF/UTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP33,620.72",Flame Retardant,SF/UTP,PUR,Stranded,Unterminated,Green,22 AWG,7/22,0.33 mm2,6.5mm,2.1 dB/100m @ 1MHz,-,2 kV,Multicore
+"Siemens Green PVC Cat5 Ethernet Cable Assembly SF/UTP, 20m Unterminated",1 Reel of 20 Metre(s),"PHP2,865.53",-,SF/UTP,PVC,-,Unterminated,Green,-,-,-,-,-,-,-,-
+"Alpha Wire Grey PVC Cat5 Cable SF/FTP, 30m Unterminated",1 Reel of 30 Metre(s),"PHP11,643.31",-,SF/FTP,PVC,Stranded,Unterminated,Grey,20,"7/0.32 mm (Data), 7/0.32 mm (Power)",-,10.19mm,3 dB/100ft @ 10MHz,54.776 pF/m,300 V,Multicore
+"Alpha Wire Grey PVC Cat5 Cable S/FTP, 30m Unterminated",1 Reel of 30 Metre(s),"PHP8,143.20",-,S/FTP,PVC,Stranded,Unterminated,Grey,"24 (Power), 28 (Data)","7/32 (Power), 7/36 (Data)","0.08 (Data) mm², 0.23 (Power) mm²",6.35mm,1.4 dB/100ft @ 1MHz,64.616 pF/m,300 V,Multicore
+"Harting Black PVC Cat5 Cable SF/UTP, 20m Unterminated",1 Reel of 20 Metre(s),"PHP3,445.11",Flame Retardant,SF/UTP,PVC,Stranded,Unterminated,Black,22 AWG,7/22,0.33 mm2,6.5mm,2.1 dB/100m @ 1MHz,-,-,Twisted Pair
+"Alpha Wire Grey PVC Cat5 Cable S/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP16,200.65",-,S/FTP,PVC,Stranded,Unterminated,Grey,"24 (Power), 28 (Data)","7/32 (Power), 7/36 (Data)","0.08 (Data) mm², 0.23 (Power) mm²",6.35mm,1.4 dB/100ft @ 1MHz,64.616 pF/m,300 V,Multicore
+2m Unshielded Cat5 Cable Assembly Black,Each,"PHP1,933.12",-,Unshielded,Plastic,-,-,Black,-,-,-,-,-,-,-,-
+"RS Pro Green PVC Cat5 Ethernet Cable UTP, 50m Unterminated",1 Reel of 50 Metre(s),"PHP1,490.42",-,UTP,PVC,Stranded,Unterminated,Green,26,7/0.16 mm,-,5.2mm,37.4 dB,330 pF,-,Twisted Pair
+4m U/UTP Crossover Cat5 Ethernet Cable Assembly Grey,Each,PHP924.96,-,U/UTP,-,-,-,Grey,-,-,-,-,-,-,-,-
+500mm U/UTP Crossover Cat5 Ethernet Cable Assembly Grey,Each,PHP328.01,-,U/UTP,-,-,-,Grey,-,-,-,-,-,-,-,-
+500mm U/FTP Cat5 Ethernet Cable Assembly Green,Each,PHP871.43,-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+"Harting Black PVC Cat5 Cable SF/UTP, 50m Unterminated",1 Reel of 50 Metre(s),"PHP8,378.40",-,SF/UTP,PVC,Stranded,Unterminated,Black,22 AWG,7/22,2.28 mm²,6.5mm,2.1 dB/100m @ 1MHz,-,-,Twisted Pair
+1m SF/UTP Cat5 Cable Assembly Green,Each,"PHP3,333.88",-,SF/UTP,PUR,-,-,Green,-,-,-,-,-,-,-,-
+1m FTP Cat5 Ethernet Cable Assembly Red,Each,PHP141.18,-,FTP,PVC,-,-,Red,-,-,-,-,-,-,-,-
+5m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP1,793.42",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+10m U/UTP Crossover Cat5 Ethernet Cable Assembly,Each,"PHP1,543.02",-,U/UTP,-,-,-,-,-,-,-,-,-,-,-,-
+1m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP1,004.58",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+1m SF/UTP Cat5 Cable Assembly Green,Each,"PHP3,230.31",-,SF/UTP,PUR,-,-,Green,-,-,-,-,-,-,-,-
+"RS Pro Red PVC Cat5 Ethernet Cable UTP, 50m Unterminated",1 Reel of 50 Metre(s),"PHP1,292.48",-,UTP,PVC,Stranded,Unterminated,Red,26,7/0.16 mm,-,5.2mm,37.4 dB,330 pF,-,Twisted Pair
+3m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP1,210.27",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+20m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP4,984.17",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+10m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP2,904.63",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+500mm FTP Cat5 Ethernet Cable Assembly Blue,Each,PHP102.20,-,FTP,PVC,-,-,Blue,-,-,-,-,-,-,-,-
+"Harting Green PVC Cat5 Cable SF/UTP, 50m Unterminated",1 Reel of 50 Metre(s),"PHP8,795.19",-,SF/UTP,PVC,Stranded,Unterminated,Green,22 AWG,7/22,2.28 mm²,6.5mm,2.1 dB/100m @ 1MHz,-,-,Multicore
+2m Unshielded Cat5 Cable Assembly Black,Each,PHP848.05,-,Unshielded,Plastic,-,-,Black,-,-,-,-,-,-,-,-
+5m U/UTP Crossover Cat5 Ethernet Cable Assembly Grey,Each,"PHP1,535.11",-,U/UTP,-,-,-,Grey,-,-,-,-,-,-,-,-
+5m SF/UTP Cat5 Cable Assembly Green,Each,"PHP3,703.91",-,SF/UTP,PUR,-,-,Green,-,-,-,-,-,-,-,-
+3m Cat5 Ethernet Cable Assembly White,Each,PHP330.39,-,-,-,-,-,White,-,-,-,-,-,-,-,-
+500mm SF/UTP Cat5 Cable Assembly Green,Each,"PHP3,177.88",-,SF/UTP,PUR,-,-,Green,-,-,-,-,-,-,-,-
+Cat 5 patch cord angled l/r 1m IP20,Each,"PHP1,614.41",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+2m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP1,219.84",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+1.5m SF/UTP Cat5 Cable Assembly Green,Each,"PHP4,258.27",-,SF/UTP,PUR,-,-,Green,-,-,-,-,-,-,-,-
+3m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP1,369.16",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+2m F/UTP Cat5 Ethernet Cable Assembly Grey,Each,"PHP1,221.86",-,F/UTP,PVC,-,-,Grey,-,-,-,-,-,-,-,-
+500mm U/FTP Cat5 Ethernet Cable Assembly Green,Each,PHP871.43,-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+500mm U/FTP Cat5 Ethernet Cable Assembly Green,Each,PHP769.36,-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+"Cat5E, UTP, LSZH, 25cm",Each,"PHP1,129.00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3m SF/UTP Cat5 Cable Assembly Green,Each,"PHP4,050.74",-,SF/UTP,PUR,-,-,Green,-,-,-,-,-,-,-,-
+500mm U/FTP Cat5 Ethernet Cable Assembly Green,Each,PHP871.43,-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+"Harting Green PUR Cat5 Ethernet Cable SF/UTP, 20m Unterminated",1 Reel of 20 Metre(s),"PHP5,896.48","Flame Retardant, Halogen Free",SF/UTP,PUR,Stranded,Unterminated,Green,-,7/22 AWG,-,6.7mm,21.3 dB/100m @ 100 MHz,-,-,Twisted Pair
+2m U/UTP Crossover Cat5 Ethernet Cable Assembly Grey,Each,"PHP1,011.17",-,U/UTP,-,-,-,Grey,-,-,-,-,-,-,-,-
+1m F/UTP Cat5 Ethernet Cable Assembly Green,Each,PHP101.92,-,F/UTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+500mm FTP Cat5 Ethernet Cable Assembly Yellow,Each,PHP102.20,-,FTP,PVC,-,-,Yellow,-,-,-,-,-,-,-,-
+1m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP1,046.03",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+3m F/UTP Crossover Cat5 Ethernet Cable Assembly Grey,Each,PHP851.60,-,F/UTP,-,-,-,Grey,-,-,-,-,-,-,-,-
+1m Cat5 Cable Assembly Green,Each (In a Pack of 50),"PHP2,050.925",-,-,PVC,-,-,Green,-,-,-,-,-,-,-,-
+10m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP3,040.64",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+1m FTP Cat5 Ethernet Cable Assembly Blue,Each,PHP149.09,-,FTP,PVC,-,-,Blue,-,-,-,-,-,-,-,-
+Cat 5 patch cord angledt b/f 5m IP20,Each,"PHP1,793.42",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+500mm F/UTP Cat5 Ethernet Cable Assembly Grey,Each,"PHP1,154.67",-,F/UTP,PVC,-,-,Grey,-,-,-,-,-,-,-,-
+"Harting Green PUR Cat5 Ethernet Cable SF/UTP, 50m Unterminated",1 Reel of 50 Metre(s),"PHP14,296.54","Flame Retardant, Halogen Free",SF/UTP,PUR,Stranded,Unterminated,Green,-,7/22 AWG,-,6.7mm,21.3 dB/100m @ 100 MHz,-,-,Twisted Pair
+10m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP5,380.08",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+Cat 5 patch cord angled t/f 2m IP20,Each,"PHP1,219.84",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+2m FTP Cat5 Ethernet Cable Assembly Red,Each,PHP176.40,-,FTP,PVC,-,-,Red,-,-,-,-,-,-,-,-
+10m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP4,348.19",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+1.5m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP1,221.79",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+1.5m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP2,148.94",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+1.5m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP1,278.17",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+"Phoenix Contact Blue PUR Cat5 Ethernet Cable SF/UTP, 100m Unterminated",Each,"PHP36,724.87",-,SF/UTP,PUR,-,Unterminated,Blue,-,-,-,-,-,-,-,-
+500mm F/UTP Crossover Cat5 Ethernet Cable Assembly Grey,Each,PHP757.19,-,F/UTP,-,-,-,Grey,-,-,-,-,-,-,-,-
+1.5m U/FTP Cat5 Ethernet Cable Assembly Green,1 Bag of 1,"PHP2,210.92",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+"Harting Green PVC Cat5 Cable SF/UTP, 20m Unterminated",1 Reel of 20 Metre(s),"PHP2,988.08",-,SF/UTP,PVC,Stranded,Unterminated,Green,22 AWG,7/22,2.28 mm²,6.5mm,2.1 dB/100m @ 1MHz,-,-,Multicore
+3m F/UTP Cat5 Ethernet Cable Assembly Green,Each,PHP156.24,-,F/UTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+2m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP1,219.84",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+3m F/UTP Cat5 Ethernet Cable Assembly,Each,"PHP1,273.70",-,F/UTP,-,-,-,-,-,-,-,-,-,-,-,-
+"Harting Black PVC Cat5 Cable SF/UTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP23,480.34",-,SF/UTP,PVC,Stranded,Unterminated,Black,22,7/0.25,0.344 mm²,6.5mm,2.1 dB/100m @ 1MHz,-,-,4 Twisted Cores
+"Ethernet cable, RJ45/RJ45, 1m, Green",Each,"PHP1,324.57",-,"SFTP, UTP",PUR,-,-,Green,-,-,-,-,-,-,-,-
+1m U/FTP Cat5 Ethernet Cable Assembly Green,Each,"PHP1,830.12",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+1m U/UTP Crossover Cat5 Ethernet Cable Assembly Grey,Each,PHP855.44,-,U/UTP,-,-,-,Grey,-,-,-,-,-,-,-,-
+3m U/UTP Cat5 Ethernet Cable Assembly,Each,"PHP1,083.77",-,U/UTP,-,-,-,-,-,-,-,-,-,-,-,-
+"Ethernet cable, RJ45/RJ45, 5m, Green",Each,"PHP2,064.00",-,"SFTP, UTP",PUR,-,-,Green,-,-,-,-,-,-,-,-
+2m FTP Cat5 Ethernet Cable Assembly Green,Each,PHP176.40,-,FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+5m U/FTP Cat5 Ethernet Cable Assembly Green,1 Bag of 1,"PHP2,622.08",-,U/FTP,PVC,-,-,Green,-,-,-,-,-,-,-,-
+5m F/UTP Cat5 Ethernet Cable Assembly Blue,Each,PHP212.10,-,F/UTP,PVC,-,-,Blue,-,-,-,-,-,-,-,-
+4m Cat5 Ethernet Cable Assembly,Each,"PHP1,479.49",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+5m F/UTP Crossover Cat5 Ethernet Cable Assembly Grey,Each,"PHP1,002.33",-,F/UTP,-,-,-,Grey,-,-,-,-,-,-,-,-

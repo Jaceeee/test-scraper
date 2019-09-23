@@ -1,0 +1,3 @@
+name,pack,price,connectivity,data_rate,connector_form_factor,supply_voltage,dimensions,weight,depth,height,width,maximum_operating_temperature,minimum_operating_temperature
+RF Solutions Radio Modem BLIZZARD-868,Each,"PHP6,243.68",Wi-Fi,56kbit/s,RS232,9 → 25V,-,150g,-,-,-,+85°C,-
+Sierra Wireless Embedded Modem EM7455,Each,"PHP13,245.00",3.13 → 4.4V,42 x 30 x 2.3mm,6.5g,30mm,2.3mm,42mm,+85°C,-40°C,-,"50 (Peak Upload Rate) Mbit/s, 300 (Peak Download Rate) Mbit/s",3.13 → 3.6V

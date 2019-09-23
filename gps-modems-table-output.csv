@@ -1,0 +1,2 @@
+name,pack,price,depth,dimensions,height,interface,maximum_operating_temperature,maximum_rx_frequency,maximum_supply_voltage,maximum_tx_frequency,minimum_operating_temperature,minimum_rx_frequency,minimum_supply_voltage,minimum_tx_frequency,width
+Digi International GPS Modem DG-M10,Each,"PHP9,405.88",2.95in,2.95 x 1.81 x 0.52in,0.52in,UART,+85°C,138MHz,+18V dc,150.05MHz,-40°C,137MHz,+9V dc,148MHz,1.81in

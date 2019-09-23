@@ -1,0 +1,43 @@
+name,pack,price,fire_behaviour,shield_type,outer_sheath_material,conductor_strand_type,connector_type,sheath_color,awg,core_strands,cross_sectional_area,outer_diameter,capacitance,cable_shape,voltage_rating,attenuation
+"RS PRO Purple LSZH Cat7 Cable S/FTP, 500m Unterminated",1 Reel of 500 Metre(s),"PHP28,163.86",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Stranded,Unterminated,Purple,23 AWG,-,-,7.6mm,Twisted Pair,"2.1 dB @ 1 MHz, 3.74 dB @ 4 MHz, 5.86 dB @ 10 MHz, 7.41 dB @ 16 MHz, 10.41 dB @ 31.25 MHz, 14.88 dB @ 62.5 MHz, 19.02 dB @ 100 MHz, 30.97 dB @ 250 MHz, 45.26 dB @ 500 MHz, 50.1 dB @ 600 MHz",-,-
+"RS PRO Purple LSZH Cat7 Cable S/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP5,485.16",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,Unterminated,Purple,23 AWG,-,0.22 mm²,7.6mm,Twisted Pair,"2.1 dB @ 1 MHz, 3.74 dB @ 4 MHz, 5.86 dB @ 10 MHz, 7.41 dB @ 16 MHz, 10.41 dB @ 31.25 MHz, 14.88 dB @ 62.5 MHz, 19.02 dB @ 100 MHz, 30.97 dB @ 250 MHz, 45.26 dB @ 500 MHz, 50.1 dB @ 600 MHz",-,-
+"RS PRO Blue LSZH Cat7 Cable S/FTP, 500m Unterminated",1 Reel of 500 Metre(s),"PHP34,964.63",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,Unterminated,Blue,23 AWG,7/0.58,-,7.8mm,"Multicore, Twisted Pair",63.01 dB/100m,-,-
+"Belden Black PVC Cat7 Cable S/FTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP26,561.85",-,S/FTP,PVC,Solid,Unterminated,Black,23 AWG,1/23,0.2 mm²,-,Twisted Pair,-,-,-
+"RS PRO Blue LSZH Cat7 Cable S/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP5,716.90",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,Unterminated,Blue,23 AWG,7/0.58,-,7.8mm,"Multicore, Twisted Pair",63.01 dB,-,-
+"Belden Grey LSZH Cat7 Cable S/FTP, 500m Unterminated",1 Reel of 500 Metre(s),"PHP45,016.50",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,Unterminated,Grey,23 AWG,1/23,0.26 mm²,7.7mm,Multicore,1.9 dB/100m @ 1MHz,-,40 pF/m
+"RS PRO Grey LSZH Cat7 Cable S/FTP, 500m Unterminated",1 Reel of 500 Metre(s),"PHP36,293.73",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,Unterminated,Grey,23 AWG,7/0.58,-,7.8mm,"Multicore, Twisted Pair",63.01 dB/100m,-,-
+"RS PRO Purple LSZH Cat7 Cable S/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP5,716.50",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,Unterminated,Purple,23 AWG,7/0.58,-,7.8mm,"Multicore, Twisted Pair",63.01 dB/100m,-,-
+"RS PRO Grey LSZH Cat7 Cable S/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP5,639.51",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,Unterminated,Grey,23 AWG,7/0.58,-,7.8mm,"Multicore, Twisted Pair",63.01 dB/100m,-,-
+"RS PRO Purple LSZH Cat7 Cable S/FTP, 500m Unterminated",1 Reel of 500 Metre(s),"PHP30,822.62",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,Unterminated,Purple,23 AWG,7/0.58,-,7.8mm,"Multicore, Twisted Pair",63.01 dB,-,-
+"CROSSOVER PATCHCABLE CAT. 7, S-FTP,  10,",Each,"PHP1,499.40",-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"RS PRO Yellow LSZH Cat7 Cable S/FTP, 500m Unterminated",1 Reel of 500 Metre(s),"PHP32,664.19",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,Unterminated,Yellow,23 AWG,7/0.58,-,7.8mm,"Multicore, Twisted Pair",63.01 dB/100m,-,-
+"CROSSOVER PATCHCABLE CAT. 7, S-FTP,  2,0",Each,PHP497.73,-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+Cat7 Cat7 5M cable assembly,Each,"PHP3,732.37",-,-,-,-,-,Grey,-,-,-,-,-,-,-,-
+"RS PRO Yellow LSZH Cat7 Cable S/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP6,318.32",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,Unterminated,Yellow,23 AWG,7/0.58,-,7.8mm,"Multicore, Twisted Pair",63.01 dB/100m,-,-
+"RS PRO Black PVC Cat7 Cable U/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP4,555.58",-,U/FTP,PVC,Solid,Unterminated,Black,-,-,-,7.5mm,Twisted Pair,50.1 dB/100m,-,-
+"RS PRO Grey LSZH Cat7 Cable U/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP7,207.22",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,Unterminated,Grey,-,-,-,7.8mm,Twisted Pair,61.9 dB/100m,-,-
+"RS PRO Grey PVC Cat7 Cable U/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP5,862.96",-,U/FTP,PVC,Solid,Unterminated,Grey,-,-,-,7.5mm,Twisted Pair,50.1 dB/100m,-,-
+"CROSSOVER PATCHCABLE CAT. 7, S-FTP,  7,5",Each,"PHP1,202.07",-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"Harting Black Elastomer, Electron Beam Cross Linked Cat7 Cable Tinned Copper Braid, 50m Unterminated",1 Reel of 50 Metre(s),"PHP39,463.40","Flame Retardant, Low Smoke Zero Halogen (LSZH)",Tinned Copper Braid,"Elastomer, Electron Beam Cross Linked",Stranded,Unterminated,Black,-,7/24,-,8.8mm,Twisted Pair,-,125 V,-
+"Belden Blue LSZH Cat7 Cable S/FTP, 500m Unterminated",1 Reel of 500 Metre(s),"PHP353,012.45",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Stranded,Unterminated,Blue,24 AWG,19/36,-,8.1mm,Multicore,100.4 dB 100 m @ 1000 MHz,300 V,"56 pF/m, 1600 pF/m"
+"Belden Black PUR Cat7 Cable S/FTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP35,785.74",-,S/FTP,PUR,-,Unterminated,Black,26 AWG,7/26,0.13 mm²,-,Twisted Pair,-,-,-
+"CROSSOVER PATCHCABLE CAT. 7, S-FTP,  0,5",Each,PHP397.82,-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"Lapp Green Polyurethane Cat7 Cable S/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP24,591.77","Flame Retardant, Halogen Free",S/FTP,Polyurethane,Stranded,Unterminated,Green,26 AWG,7/0.16,0.14 mm²,6.4mm,Multicore,75.1 dB/100 m,125 V,46 nF/km
+"Harting Yellow Polyurethane Cat7 Cable Shielded, 100m Unterminated",1 Reel of 100 Metre(s),"PHP25,734.34","Flame Retardant, Halogen Free",Shielded,Polyurethane,Solid,Unterminated,Yellow,23 AWG,1/23,0.22 mm²,8.3mm,Twisted Pair,-,-,-
+"Lapp Green PUR Cat7 Cable Copper Braid, 50m Unterminated",1 Reel of 50 Metre(s),"PHP27,469.84",-,Copper Braid,PUR,Stranded,Unterminated,Green,22 AWG,-,0.33 mm²,8.7mm,Twisted Pair,-,125 V,-
+"CROSSOVER PATCHCABLE CAT. 7, S-FTP,  5,0",Each,PHP942.81,-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"Belden Black PUR Cat7 Cable S/FTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP35,346.91",-,S/FTP,PUR,-,Unterminated,Black,23 AWG,1/23,0.2 mm²,-,Twisted Pair,-,"300 V dc, 450 V ac",-
+"CROSSOVER PATCHCABLE CAT. 7, S-FTP,  1,0",Each,PHP391.59,-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"Belden Black Flame Resistant Non-corrosive, FRNC Cat7 Cable S/FTP, 305m Unterminated",1 Reel of 305 Metre(s),"PHP32,266.62",-,S/FTP,"Flame Resistant Non-corrosive, FRNC",Solid,Unterminated,Black,23 AWG,1/23,0.2 mm²,-,Twisted Pair,-,-,-
+Cat7 Cat7 2M cable assembly,Each,"PHP4,100.72",-,-,-,-,-,Grey,-,-,-,-,-,-,-,-
+"CAE Multimedia Connect Purple LSZH Cat7 Cable S/FTP, 250m Unterminated",1 Reel of 250 Metre(s),"PHP24,530.62",-,S/FTP,LSZH,Solid,Unterminated,Purple,23 AWG,1/23,-,7.6mm,Multicore,44.9 Db@600 Mhz,-,45 pF/m
+"Alpha Wire Black PUR Cat7 Cable Tinned Copper Braid, 152m Unterminated",1 Reel of 152 Metre(s),"PHP31,431.43",Low Smoke Zero Halogen (LSZH),Tinned Copper Braid,PUR,Stranded,Unterminated,Black,26 AWG,7/34,-,0.27mm,Twisted Pair,73.3 dB/100 m,300 V ac,&lt;56 nF/km
+"Harting Black Elastomer, Electron Beam Cross Linked Cat7 Cable Shielded, 100m Unterminated",1 Reel of 100 Metre(s),"PHP78,834.99","Flame Retardant, Low Smoke Zero Halogen (LSZH)",Shielded,"Elastomer, Electron Beam Cross Linked",Stranded,Unterminated,Black,-,7/24,-,8.8mm,Twisted Pair,-,-,-
+"CROSSOVER PATCHCABLE CAT. 7, S-FTP,  3,0",Each,PHP681.86,-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"Lapp Green Polyurethane Cat7 Cable S/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP86,407.10","Flame Retardant, Halogen Free",S/FTP,Polyurethane,Stranded,Unterminated,Green,24 AWG,7/0.2,0.22 mm²,9.4mm,Multicore,75.1 dB/100 m,125 V,50 nF/km
+Cat7 Cat7 3M cable assembly,Each,"PHP4,378.58",-,-,-,-,-,Grey,-,-,-,-,-,-,-,-
+"Belden LSZH Cat7 Cable S/FTP, 500m Unterminated",1 Reel of 500 Metre(s),"PHP72,334.26",Flame Retardant,S/FTP,LSZH,Solid,Unterminated,-,23 AWG,-,-,7mm,Multicore,66.9 dB 100 m @ 1000 MHz,72 V dc,"56 nF/km, 1600 pF/km"
+"RS PRO Grey PVC Cat7 Cable SF/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP7,154.45",-,SF/FTP,PVC,Solid,Unterminated,Grey,23 AWG,-,-,8mm,Twisted Pair,50.1 dB/100m,-,-
+"RS PRO Black LSZH Cat7 Cable U/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP6,243.00",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,Unterminated,Black,-,-,-,7.8mm,Twisted Pair,61.9 dB/100m,-,-
+"RS PRO Black PVC Cat7 Cable SF/FTP, 100m Unterminated",1 Reel of 100 Metre(s),"PHP7,154.45",-,SF/FTP,PVC,Solid,Unterminated,Black,23 AWG,-,-,8mm,Twisted Pair,50.1 dB/100m,-,-
+"Belden Grey LSZH Cat7 Cable S/FTP, 500m Unterminated",1 Reel of 500 Metre(s),"PHP84,486.00",-,S/FTP,LSZH,Solid,Unterminated,Grey,23 AWG,-,-,7.6mm,Twisted Pair,66.9 dB/100m,72 V,1600 pF/m

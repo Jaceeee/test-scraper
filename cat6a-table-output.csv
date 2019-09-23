@@ -1,0 +1,101 @@
+name,pack,price,fire_behaviour,shield_type,outer_sheath_material,conductor_strand_type,connector_type,sheath_color,awg,core_strands,cross_sectional_area,outer_diameter,attenuation,capacitance,voltage_rating,cable_shape
+"RS Pro U/FTP Cat6a Cable 100m, Grey",1 Reel of 100 Metre(s),"PHP5,247.42",-,U/FTP,PVC,Solid,-,Grey,23 AWG,-,-,7.5mm,45.3 dB/100m,-,-,Twisted Pair
+RS Pro Shielded Cat6a Cable 500m LSZH,1 Reel of 500 Metre(s),"PHP24,603.79",Low Smoke Zero Halogen (LSZH),F/FTP,-,Solid,-,-,23 AWG,-,0.22 mm²,7.3mm,"2.1 dB @ 1 MHz, 3.8 dB @ 4 MHz, 5.9 dB @ 10 MHz, 7.5 dB @ 16 MHz, 10.5 dB @ 31.25 MHz, 15 dB @ 62.5 MHz, 19.1 dB @ 100 MHz, 31.1 dB @ 250 MHz, 45.3 dB @ 500 MHz",-,-,Twisted Pair
+"RS Pro Shielded Cat6a Cable 100m Flame Retardant LSZH, Grey",1 Reel of 100 Metre(s),"PHP5,373.67","Flame Retardant, Low Smoke Zero Halogen (LSZH)",F/FTP,LSZH,Solid,-,Grey,23 AWG,-,0.2 mm²,7.3mm,"2.1 dB @ 1 MHz, 3.8 dB @ 4 MHz, 5.9 dB @ 10 MHz, 7.5 dB @ 16 MHz, 10.5 dB @ 31.25 MHz, 15 dB @ 62.5 MHz, 19.1 dB @ 100 MHz, 31.1 dB @ 250 MHz, 45.3 dB @ 500 MHz",-,-,Twisted Pair
+"RS Pro Shielded Cat6a Cable 100m, Grey",1 Reel of 100 Metre(s),"PHP6,659.75",-,SF/FTP,PVC,Solid,-,Grey,23 AWG,-,-,8mm,45.3 dB/100m,-,-,Twisted Pair
+PATCH CORD CAT 6A STP GREY 2M,Each,PHP673.97,-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"Harting Shielded Cat6a Cable 50m, Flame Retardant, Yellow",1 Reel of 50 Metre(s),"PHP18,544.44",Flame Retardant,Tinned Copper Braid,Polyurethane,Stranded,-,Yellow,-,7/26 AWG,-,6.9mm,67.9 dB,-,100 V,Multicore
+"Harting Shielded Cat6a Cable 20m, Flame Retardant, Black",1 Reel of 20 Metre(s),"PHP5,703.15",Flame Retardant,Tinned Copper Braid,PVC,Stranded,-,Black,-,7/26 AWG,-,6.9mm,67.9 dB,-,100 V,Multicore
+"Harting Shielded Cat6a Cable 50m, Flame Retardant, Black",1 Reel of 50 Metre(s),"PHP19,766.68",Flame Retardant,Tinned Copper Braid,PVC,Stranded,-,Black,-,7/26 AWG,-,6.9mm,67.9 dB,-,100 V,Multicore
+Patch cord Cat 6a S/FTP LSZH 10m Blue,Each,"PHP1,093.63",-,S/FTP,LSZH,-,-,Blue,-,-,-,-,-,-,-,-
+RS Pro U/FTP Cat6a Cable 500m LSZH,1 Reel of 500 Metre(s),"PHP18,973.40",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,-,-,23 AWG,-,-,7.2mm,"2.1 dB @ 1 MHz, 3.8 dB @ 4 MHz, 5.9 dB @ 10 MHz, 7.5 dB @ 16 MHz, 10.5 dB @ 31.25 MHz, 15 dB @ 62.5 MHz, 19.1 dB @ 100 MHz, 31.1 dB @ 250 MHz, 45.3 dB @ 500 MHz",-,-,Twisted Pair
+"RS Pro U/FTP Cat6a Cable 100m LSZH, Grey",1 Reel of 100 Metre(s),"PHP4,313.56",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,-,Grey,23 AWG,-,0.22 mm²,7.2mm,"2.1 dB @ 1 MHz, 3.8 dB @ 4 MHz, 5.9 dB @ 10 MHz, 7.5 dB @ 16 MHz, 10.5 dB @ 31.25 MHz, 15 dB @ 62.5 MHz, 19.1 dB @ 100 MHz, 31.1 dB @ 250 MHz, 45.3 dB @ 500 MHz",-,-,Twisted Pair
+Patch cord Cat 6a S/FTP LSZH 2m Blue,Each,PHP418.61,-,S/FTP,LSZH,-,-,Blue,-,-,-,-,-,-,-,-
+Patch cord Cat 6a S/FTP LSZH 10m Grey,Each,"PHP1,215.78",-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"M12,CAT6A,Cordset, blue PUR AWG26 0.5M",Each,"PHP6,040.13",-,Shielded PUR,PUR,-,-,Blue,-,-,-,-,-,-,-,-
+3M Category 6A S/FTP RJ45 Patch Cord,Each,"PHP1,123.73",-,FTP,LSZH,-,RJ45,Grey,-,-,-,-,-,-,75 V dc,-
+"Belden Shielded Cat6a Cable, Halogen Free, Green",1 Reel of 305 Metre(s),"PHP99,900.00",Halogen Free,Tinned Copper Braid,Polyurethane,Solid,-,Green,23 AWG,-,-,8.7mm,50.3 dB/100m,1.6 pF/m,30 V ac,Twisted Pair
+Ethernet Cat6 cable LSZH Yellow 20m,Each,"PHP4,452.80",-,-,LSZH,-,-,Yellow,-,-,-,-,-,-,1 kV dc,-
+Ethernet Cat6 patch cable LSZH Blue 0.2m,Each,PHP530.64,-,-,LSZH,-,-,Blue,-,-,-,-,-,-,1 kV dc,-
+"Belden U/FTP Cat6a Cable LSZH, Purple",1 Reel of 500 Metre(s),"PHP46,317.00",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,-,Purple,23 AWG,-,-,7.9mm,45.3 dB/100m,1600 pF/m,72 V dc,Twisted Pair
+Patch cord Cat 6a S/FTP LSZH 0.5m Black,Each,PHP287.56,-,S/FTP,LSZH,-,-,Black,-,-,-,-,-,-,-,-
+Ethernet cable Cat 6A RJ45/RJ45 1m Yel,Each,PHP474.02,-,"FTP, STP",LSZH,-,RJ45,Yellow,-,-,-,-,-,-,-,-
+"PC RJ45 C6a S/FTP LZ SR Wh 3,0m",Each,"PHP1,873.00",-,S/FTP,LSZH,-,RJ45,White,-,-,-,-,-,-,-,-
+"PC RJ45 C6a S/FTP LZ SR Wh 2,0m",Each,"PHP1,395.68",-,S/FTP,LSZH,-,RJ45,White,-,-,-,-,-,-,-,-
+Ethernet Cat6 patch cable LSZH Blue 15m,Each,"PHP3,247.48",-,-,LSZH,-,-,Blue,-,-,-,-,-,-,1 kV dc,-
+"Belden U/FTP Cat6a Cable LSZH, Purple",1 Reel of 500 Metre(s),"PHP28,882.00",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,-,Purple,23 AWG,-,-,6.9mm,45.3 dB/100m,1600 pF/m,72 V dc,Twisted Pair
+Ethernet Cat6 cable LSZH Blue 0.5m,Each,PHP567.44,-,-,LSZH,-,-,Blue,-,-,-,-,-,-,1 kV dc,-
+Ethernet cable Cat 6A RJ45/RJ45 0.2m Yel,Each,PHP366.43,-,"FTP, STP",LSZH,-,RJ45,Yellow,-,-,-,-,-,-,-,-
+CABLE 100 OHMS U / FTP 4P CAT6A 525MHz S,1 Reel of 100 Metre(s),"PHP6,773.85",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,-,Black,23 AWG,-,-,7.3mm,45.3 dB/100m,50 pF/m,-,Twisted Pair
+"Belden Shielded Cat6a Cable LSZH, Green",1 Reel of 305 Metre(s),"PHP79,180.00",Low Smoke Zero Halogen (LSZH),Tinned Copper Braid,LSZH,Solid,-,Green,22 AWG,-,-,8.7mm,46.6 dB/100m,1.6 pF/m,30 V ac,Twisted Pair
+"CAE Multimedia Connect Shielded Cat6a Cable 2m, Grey",Each,PHP923.09,-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"CAE Multimedia Connect U/FTP Cat6a Cable 500m LSZH, Black",1 Reel of 100 Metre(s),"PHP21,061.54",Low Smoke Zero Halogen (LSZH),U/FTP,PE,Solid,-,Black,23 AWG,-,-,10.3mm,45.3 dB/100m,45 pF/m,-,Twisted Pair
+"CAE Multimedia Connect Shielded Cat6a Cable 305m, Black",1 Reel of 305 Metre(s),"PHP14,310.06",-,S/FTP,LSZH,Solid,-,Black,26 AWG,-,-,6mm,44.2 dB@ 500 Mhz,452 pF/m,-,Twisted Pair
+Patch cord Cat 6a S/FTP LSZH 3m Grey,Each,PHP501.52,-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+Ethernet Cat6 patch cable LSZH Yellow 2m,Each,PHP936.30,-,-,LSZH,-,-,Yellow,-,-,-,-,-,-,1 kV dc,-
+PATCH CORD CAT 6A STP GREY 3M,Each,PHP808.35,-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+PATCH CORD CAT 6A STP GREY 5M,Each,"PHP1,038.13",-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"Harting Shielded Cat6a Cable 20m, Flame Retardant, Yellow",1 Reel of 20 Metre(s),"PHP6,610.74",Flame Retardant,Tinned Copper Braid,PVC,Stranded,-,Yellow,-,7/26 AWG,-,6.9mm,67.9 dB,-,100 V,Multicore
+"Belden Shielded Cat6a Cable 500m LSZH, Grey",1 Reel of 500 Metre(s),"PHP46,864.43",Low Smoke Zero Halogen (LSZH),F/FTP,LSZH,Solid,-,Grey,23 AWG,-,-,7.1mm,51.2 dB @ 625 MHz,"56 pF/m, 1600 pF/m",72 V,Twisted Pair
+Ethernet cable Cat 6A RJ45/RJ45 10m Blue,Each,"PHP2,774.12",-,"FTP, STP",LSZH,-,RJ45,Blue,-,-,-,-,-,-,-,-
+Patch cord Cat 6a S/FTP LSZH 3m Blue,Each,PHP572.30,-,S/FTP,LSZH,-,-,Blue,-,-,-,-,-,-,-,-
+Ethernet Cat6 cable LSZH Yellow 15m,Each,"PHP3,418.40",-,-,LSZH,-,-,Yellow,-,-,-,-,-,-,1 kV dc,-
+Patch cord Cat 6a S/FTP LSZH 3m Black,Each,PHP487.36,-,S/FTP,LSZH,-,-,Black,-,-,-,-,-,-,-,-
+"Belden Shielded Cat6a Cable LSZH, Blue",1 Reel of 500 Metre(s),"PHP43,290.00",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,-,Blue,23 AWG,-,-,7.5mm,45.3 dB/100m,1600 pF/m,72 V,Twisted Pair
+"Belden Shielded Cat6a Cable LSZH, Purple",1 Reel of 500 Metre(s),"PHP43,068.00",Low Smoke Zero Halogen (LSZH),F/FTP,LSZH,Solid,-,Purple,23 AWG,-,-,7.9mm,45.3 dB/100m,1600 pF/m,72 V,Twisted Pair
+Ethernet Cat6 cable LSZH Blue 0.3m,Each,PHP494.24,-,-,LSZH,-,-,Blue,-,-,-,-,-,-,1 kV dc,-
+"Belden U/FTP Cat6a Cable 500m LSZH, Blue",1 Reel of 500 Metre(s),"PHP30,563.88",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,-,Blue,23 AWG,-,-,7.2mm,35.3 dB @ 500 MHz,"56 pF/m, 1600 pF/m",72 V dc,Twisted Pair
+PATCH CORD CAT 6A STP GREY 1M,Each,PHP514.07,-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"CAE Multimedia Connect Shielded Cat6a Cable 100m LSZH, Purple",1 Reel of 100 Metre(s),"PHP15,630.12",Low Smoke Zero Halogen (LSZH),F/FTP,LSZH,Solid,-,Purple,23 AWG,-,0.2 mm²,7.4 x 14.8mm,44.2 dB@ 500 Mhz,-,-,Twisted Pair
+Patch cord Cat 6a S/FTP LSZH 2m Black,Each,PHP433.97,-,S/FTP,LSZH,-,-,Black,-,-,-,-,-,-,-,-
+Ethernet cable Cat 6A RJ45/RJ45 3m Blue,Each,PHP819.01,-,"FTP, STP",LSZH,-,RJ45,Blue,-,-,-,-,-,-,-,-
+Patch cord Cat 6a S/FTP LSZH 10m Black,Each,"PHP1,239.64",-,S/FTP,LSZH,-,-,Black,-,-,-,-,-,-,-,-
+PATCH CORD CAT 6A STP GREY 7M,Each,"PHP1,259.89",-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"CAE Multimedia Connect Shielded Cat6a Cable 3m, Grey",Each,"PHP1,208.13",-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+Ethernet Cat6 cable LSZHYellow 3m,Each,"PHP1,187.47",-,-,LSZH,-,-,Yellow,-,-,-,-,-,-,1 kV dc,-
+3M Category 6A S/FTP RJ45 Patch Cord,Each,PHP541.78,-,FTP,LSZH,-,RJ45,Grey,-,-,-,-,-,-,75 V dc,-
+"PC RJ45 C6a S/FTP LZ SR Wh 5,0m",Each,"PHP3,071.80",-,S/FTP,LSZH,-,RJ45,White,-,-,-,-,-,-,-,-
+"Belden Shielded Cat6a Cable LSZH, Purple",1 Reel of 500 Metre(s),"PHP29,304.00",Low Smoke Zero Halogen (LSZH),F/FTP,LSZH,Solid,-,Purple,23 AWG,-,-,7mm,45.3 dB/100m,1600 pF/m,72 V,Twisted Pair
+PATCH CORD CAT 6A STP GREY 10M,Each,"PHP1,662.96",-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+Ethernet Cat6 cable LSZH Yellow 10m,Each,"PHP2,422.40",-,-,LSZH,-,-,Yellow,-,-,-,-,-,-,1 kV dc,-
+"Belden U/FTP Cat6a Cable LSZH, Purple",1 Reel of 500 Metre(s),"PHP51,460.00",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,-,Purple,23 AWG,-,-,7.9mm,45.3 dB/100m,1600 pF/m,72 V dc,Twisted Pair
+Ethernet Cat6 cable LSZH Yellow 15m,Each,"PHP3,418.40",-,-,LSZH,-,-,Yellow,-,-,-,-,-,-,1 kV dc,-
+Patch cord Cat 6a S/FTP LSZH 3m Black,Each,PHP487.36,-,S/FTP,LSZH,-,-,Black,-,-,-,-,-,-,-,-
+"Belden Shielded Cat6a Cable LSZH, Blue",1 Reel of 500 Metre(s),"PHP43,290.00",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,-,Blue,23 AWG,-,-,7.5mm,45.3 dB/100m,1600 pF/m,72 V,Twisted Pair
+"Belden Shielded Cat6a Cable LSZH, Purple",1 Reel of 500 Metre(s),"PHP43,068.00",Low Smoke Zero Halogen (LSZH),F/FTP,LSZH,Solid,-,Purple,23 AWG,-,-,7.9mm,45.3 dB/100m,1600 pF/m,72 V,Twisted Pair
+Ethernet Cat6 cable LSZH Blue 0.3m,Each,PHP494.24,-,-,LSZH,-,-,Blue,-,-,-,-,-,-,1 kV dc,-
+"Belden U/FTP Cat6a Cable 500m LSZH, Blue",1 Reel of 500 Metre(s),"PHP30,563.88",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,-,Blue,23 AWG,-,-,7.2mm,35.3 dB @ 500 MHz,"56 pF/m, 1600 pF/m",72 V dc,Twisted Pair
+PATCH CORD CAT 6A STP GREY 1M,Each,PHP514.07,-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"CAE Multimedia Connect Shielded Cat6a Cable 100m LSZH, Purple",1 Reel of 100 Metre(s),"PHP15,630.12",Low Smoke Zero Halogen (LSZH),F/FTP,LSZH,Solid,-,Purple,23 AWG,-,0.2 mm²,7.4 x 14.8mm,44.2 dB@ 500 Mhz,-,-,Twisted Pair
+Patch cord Cat 6a S/FTP LSZH 2m Black,Each,PHP433.97,-,S/FTP,LSZH,-,-,Black,-,-,-,-,-,-,-,-
+Ethernet cable Cat 6A RJ45/RJ45 3m Blue,Each,PHP819.01,-,"FTP, STP",LSZH,-,RJ45,Blue,-,-,-,-,-,-,-,-
+Patch cord Cat 6a S/FTP LSZH 10m Black,Each,"PHP1,239.64",-,S/FTP,LSZH,-,-,Black,-,-,-,-,-,-,-,-
+PATCH CORD CAT 6A STP GREY 7M,Each,"PHP1,259.89",-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"CAE Multimedia Connect Shielded Cat6a Cable 3m, Grey",Each,"PHP1,208.13",-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+Ethernet Cat6 cable LSZHYellow 3m,Each,"PHP1,187.47",-,-,LSZH,-,-,Yellow,-,-,-,-,-,-,1 kV dc,-
+3M Category 6A S/FTP RJ45 Patch Cord,Each,PHP541.78,-,FTP,LSZH,-,RJ45,Grey,-,-,-,-,-,-,75 V dc,-
+"PC RJ45 C6a S/FTP LZ SR Wh 5,0m",Each,"PHP3,071.80",-,S/FTP,LSZH,-,RJ45,White,-,-,-,-,-,-,-,-
+"Belden Shielded Cat6a Cable LSZH, Purple",1 Reel of 500 Metre(s),"PHP29,304.00",Low Smoke Zero Halogen (LSZH),F/FTP,LSZH,Solid,-,Purple,23 AWG,-,-,7mm,45.3 dB/100m,1600 pF/m,72 V,Twisted Pair
+PATCH CORD CAT 6A STP GREY 10M,Each,"PHP1,662.96",-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+Ethernet Cat6 cable LSZH Yellow 10m,Each,"PHP2,422.40",-,-,LSZH,-,-,Yellow,-,-,-,-,-,-,1 kV dc,-
+"Belden U/FTP Cat6a Cable LSZH, Purple",1 Reel of 500 Metre(s),"PHP51,460.00",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,-,Purple,23 AWG,-,-,7.9mm,45.3 dB/100m,1600 pF/m,72 V dc,Twisted Pair
+Ethernet Cat6 cable LSZH Yellow 15m,Each,"PHP3,418.40",-,-,LSZH,-,-,Yellow,-,-,-,-,-,-,1 kV dc,-
+Patch cord Cat 6a S/FTP LSZH 3m Black,Each,PHP487.36,-,S/FTP,LSZH,-,-,Black,-,-,-,-,-,-,-,-
+"Belden Shielded Cat6a Cable LSZH, Blue",1 Reel of 500 Metre(s),"PHP43,290.00",Low Smoke Zero Halogen (LSZH),S/FTP,LSZH,Solid,-,Blue,23 AWG,-,-,7.5mm,45.3 dB/100m,1600 pF/m,72 V,Twisted Pair
+"Belden Shielded Cat6a Cable LSZH, Purple",1 Reel of 500 Metre(s),"PHP43,068.00",Low Smoke Zero Halogen (LSZH),F/FTP,LSZH,Solid,-,Purple,23 AWG,-,-,7.9mm,45.3 dB/100m,1600 pF/m,72 V,Twisted Pair
+Ethernet Cat6 cable LSZH Blue 0.3m,Each,PHP494.24,-,-,LSZH,-,-,Blue,-,-,-,-,-,-,1 kV dc,-
+"Belden U/FTP Cat6a Cable 500m LSZH, Blue",1 Reel of 500 Metre(s),"PHP30,563.88",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,-,Blue,23 AWG,-,-,7.2mm,35.3 dB @ 500 MHz,"56 pF/m, 1600 pF/m",72 V dc,Twisted Pair
+PATCH CORD CAT 6A STP GREY 1M,Each,PHP514.07,-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"CAE Multimedia Connect Shielded Cat6a Cable 100m LSZH, Purple",1 Reel of 100 Metre(s),"PHP15,630.12",Low Smoke Zero Halogen (LSZH),F/FTP,LSZH,Solid,-,Purple,23 AWG,-,0.2 mm²,7.4 x 14.8mm,44.2 dB@ 500 Mhz,-,-,Twisted Pair
+Patch cord Cat 6a S/FTP LSZH 2m Black,Each,PHP433.97,-,S/FTP,LSZH,-,-,Black,-,-,-,-,-,-,-,-
+Ethernet cable Cat 6A RJ45/RJ45 3m Blue,Each,PHP819.01,-,"FTP, STP",LSZH,-,RJ45,Blue,-,-,-,-,-,-,-,-
+Patch cord Cat 6a S/FTP LSZH 10m Black,Each,"PHP1,239.64",-,S/FTP,LSZH,-,-,Black,-,-,-,-,-,-,-,-
+PATCH CORD CAT 6A STP GREY 7M,Each,"PHP1,259.89",-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+"CAE Multimedia Connect Shielded Cat6a Cable 3m, Grey",Each,"PHP1,208.13",-,S/FTP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+Ethernet Cat6 cable LSZHYellow 3m,Each,"PHP1,187.47",-,-,LSZH,-,-,Yellow,-,-,-,-,-,-,1 kV dc,-
+3M Category 6A S/FTP RJ45 Patch Cord,Each,PHP541.78,-,FTP,LSZH,-,RJ45,Grey,-,-,-,-,-,-,75 V dc,-
+"PC RJ45 C6a S/FTP LZ SR Wh 5,0m",Each,"PHP3,071.80",-,S/FTP,LSZH,-,RJ45,White,-,-,-,-,-,-,-,-
+"Belden Shielded Cat6a Cable LSZH, Purple",1 Reel of 500 Metre(s),"PHP29,304.00",Low Smoke Zero Halogen (LSZH),F/FTP,LSZH,Solid,-,Purple,23 AWG,-,-,7mm,45.3 dB/100m,1600 pF/m,72 V,Twisted Pair
+PATCH CORD CAT 6A STP GREY 10M,Each,"PHP1,662.96",-,STP,LSZH,-,-,Grey,-,-,-,-,-,-,-,-
+Ethernet Cat6 cable LSZH Yellow 10m,Each,"PHP2,422.40",-,-,LSZH,-,-,Yellow,-,-,-,-,-,-,1 kV dc,-
+"Belden U/FTP Cat6a Cable LSZH, Purple",1 Reel of 500 Metre(s),"PHP51,460.00",Low Smoke Zero Halogen (LSZH),U/FTP,LSZH,Solid,-,Purple,23 AWG,-,-,7.9mm,45.3 dB/100m,1600 pF/m,72 V dc,Twisted Pair

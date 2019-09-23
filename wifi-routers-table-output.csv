@@ -1,0 +1,27 @@
+name,pack,price,model,wireless_connectivity,network_speed,wifi_rating,wifi_standard,wireless_data_rate,wifi_band,number_of_lan_ports,security_protocols,dimensions,weight,depth,width,height
+Edimax BR-6428nC N300 Wireless Router,Each,"PHP2,443.16",BR-6428nC,WiFi,-,N300,-,-,2.4GHz,4,"WEP, WPA, WPA2-PSK",135 x 28 x 110mm,234g,110mm,135mm,234g
+D-Link DIR-880L AC1900 Wireless Router,Each,"PHP17,461.78",DIR-880L,WiFi,-,AC1900,"802.11a, 802.11ac, 802.11b, 802.11g, 802.11n, 802.3u",-,"2.4 GHz, 5 GHz",4,"WEP, WPA, WPA2-PSK",246.9 x 190.5 x 47.2mm,680g,190.5mm,246.9mm,680g
+D-Link DWR-921 4G LTE Wireless Router,Each,"PHP16,569.97",DWR-921,"3G, 4G LTE",10/100Mbit/s,-,"802.11b, 802.11g, 802.11n, 802.3, 802.3u",300Mbit/s,2.4GHz,4,"WEP, WPA, WPA2-PSK",190 x 111.5 x 23.5mm,500g,111.5mm,190mm,500g
+D-Link DAP-1665 AC1200 Wireless Router,Each,"PHP6,979.50",DAP-1665,WiFi,-,AC1200,"802.11a, 802.11ac, 802.11b, 802.11g, 802.11n, 802.3u",1200Mbit/s,"2.4 GHz, 5 GHz",1,"WEP, WPA, WPA2-PSK",147 x 108 x 27.8mm,222g,108mm,147mm,222g
+Netgear Nighthawk X6 AC3200 Wireless Router,Each,"PHP19,528.60",Nighthawk X6,WiFi,10/100/1000Mbit/s,AC3200,"802.11a, 802.11ac, 802.11b, 802.11g, 802.11n",-,"2.4 GHz, 5 GHz",4,"WPA, WPA2-PSK",295.5 x 226.8 x 54.5mm,1.1kg,226.8mm,295.5mm,1.1kg
+Digi International Wireless Router,Each,"PHP4,315.54",-,-,-,-,-,250kbit/s,2.4GHz,-,-,-,-,-,-,-
+Digi International Wireless Router,Each,"PHP26,352.34",-,-,10/100Mbit/s,-,"802.11b, 802.11g",54Mbit/s,2.4GHz,-,"AES, IPsec, SSL, 3DES",133.3 x 85 x 10mm,340g,85mm,133.3mm,340g
+Digi International Wireless Router,Each,"PHP4,441.03",-,-,-,-,-,250kbit/s,2.4GHz,-,-,-,-,-,-,-
+Digi International Wireless Router,Each,"PHP4,315.54",-,-,-,-,-,250kbit/s,2.4GHz,-,-,72.9 x 50.04 x 34.8mm,-,50.04mm,72.9mm,-
+Netgear Nighthawk X4S AC2600 Wireless Router,Each,"PHP17,390.76",Nighthawk X4S,WiFi,10/100/1000Mbit/s,AC2600,"802.11a, 802.11ac, 802.11b, 802.11g, 802.11n",-,2.4GHz,4,"WPA, WPA2-PSK",285 x 185 x 50mm,840g,185mm,285mm,840g
+Netgear AC1750 Wireless Router,Each,"PHP11,021.67",AC1750,-,10/100/1000Mbit/s,-,802.11ac,450Mbit/s,"2.4 GHz, 5 GHz",4,"WPA, WPA-PSK, WPA2, WPA2-PSK",191 x 198.5 x 65mm,430g,191mm,198.5mm,430g
+D-Link DSR-100AC Wireless Router,Each,"PHP32,932.22",DSR-100AC,WiFi,-,-,"802.11a, 802.11ac, 802.11b, 802.11g, 802.11n",-,-,-,"WEP, WPA-EAP, WPA-PSK, WPA2- EAP, WPA2-PSK, WPS",-,-,180mm,280mm,-
+D-Link EXO AC1900 AC1900 Wireless Router,Each,"PHP9,841.00",EXO AC1900,WiFi,-,AC1900,-,1900Mbit/s,"2.4 GHz, 5 GHz",4,"WPA, WPA2, WPS",258.8 x 183.4 x 44.9mm,565g,183.4mm,258.8mm,565g
+Digi International Wireless Router,Each,"PHP4,511.73",-,-,-,-,-,250Mbit/s,2.4GHz,-,-,-,-,-,-,-
+D-Link DIR-842 AC1200 Wireless Router,Each,"PHP4,951.34",DIR-842,WiFi,10/100/1000Mbit/s,AC1200,"802.11a, 802.11ac, 802.11b, 802.11g, 802.11n",300Mbit/s,"2.4 GHz, 5 GHz",4,"WEP, WPA, WPA2-PSK",190 x 133 x 38mm,288g,190mm,133mm,288g
+D-Link Wireless AC750 AC750 Wireless Router,Each,"PHP2,703.00",Wireless AC750,WiFi,10/100Mbit/s,AC750,-,433Mbit/s,"2.4 GHz, 5 GHz",4,"WPA, WPA2, WPS",190 x 133 x 38mm,317g,133mm,190mm,317g
+D-Link DWR-953 4G LTE AC750 Wireless Router,Each,"PHP13,942.34",DWR-953,"3G, 4G LTE",10/100Mbit/s,AC750,"802.11a, 802.11ac, 802.11b, 802.11g, 802.11n, 802.3u",300Mbit/s,-,4,"WEP, WPA, WPA2-PSK",189.5 x 111.5 x 21.9mm,290g,189.5mm,111.5mm,290g
+Netgear Nighthawk R7000 AC1900 Wireless Router,Each,"PHP14,388.56",Nighthawk R7000,WiFi,-,AC1900,"802.11a, 802.11ac, 802.11b, 802.11g, 802.11n",600Mbit/s,"2.4 GHz, 5 GHz",4,"WPA, WPA2, WPS",285 x 184.5 x 50mm,750g,285mm,184.5mm,750g
+D-Link EXO AC2600 AC2600 Wireless Router,Each,"PHP10,706.00",EXO AC2600,WiFi,-,AC2600,-,2533Mbit/s,"2.4 GHz, 5 GHz",4,"WPA, WPA2, WPS",258.8 x 184.1 x 45.5mm,565g,184.1mm,258.8mm,565g
+Netgear D6400 AC1600 Wireless Router,Each,"PHP13,429.76",D6400,WiFi,10/100/1000Mbit/s,AC1600,802.11ac,300Mbit/s,"2.4 GHz, 5 GHz",4,"WPA, WPA2-PSK",191 x 198.5 x 65mm,422g,191mm,198.5mm,422g
+Netgear Nighthawk X4S AC2600 Wireless Router,Each,"PHP25,869.48",Nighthawk X4S,WiFi,10/100/1000Mbit/s,AC2600,"802.11a, 802.11ac, 802.11b, 802.11g, 802.11n",-,"2.4 GHz, 5 GHz",4,"WPA, WPA2-PSK",285 x 185 x 50mm,840g,185mm,285mm,840g
+D-Link DWR-921 4G LTE Wireless Router,Each,"PHP17,103.62",DWR-921,"3G, 4G LTE",10/100Mbit/s,-,"802.11a, 802.11ac, 802.11b, 802.11g, 802.11n, 802.3u",150Mbit/s,-,4,"WEP, WPA, WPA2-PSK",190 x 111.5 x 23.5mm,500g,190mm,111.5mm,500g
+Edimax AC1200 Wireless Router,Each,"PHP4,082.48",AC1200,-,10/100/1000Mbit/s,-,"802.11a, 802.11ac, 802.11b, 802.11g, 802.11n",54Mbit/s,"2.4 GHz, 5 GHz",4,"WEP, WPA, WPA2-PSK",190.2 x 172 x 42mm,322g,190.2mm,172mm,322g
+Edimax BR-6428nS V4 N300 Wireless Router,Each,"PHP1,527.97",BR-6428nS V4,WiFi,10/100/1000Mbit/s,N300,"802.11b, 802.11g, 802.11n",54Mbit/s,-,4,-,190 x 162 x 42mm,245g,190mm,162mm,245g
+Netgear D6000 AC750 Wireless Router,Each,"PHP8,613.57",D6000,WiFi,10/100/1000Mbit/s,AC750,"802.11a, 802.11c",750Mbit/s,-,-,"WPA, WPA2-PSK",-,-,-,-,-
+Edimax BR-6288ACL AC600 Wireless Router,Each,"PHP3,108.00",BR-6288ACL,WiFi,10/100/1000Mbit/s,AC600,802.11ac,54Mbit/s,"2.4 GHz, 5 GHz",1,"WPA, WPA2, 64/128-bit WEP",215 x 70 x 70mm,-,215mm,70mm,-
